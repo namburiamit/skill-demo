@@ -1,3 +1,5 @@
 public class skillDemo{
-// we can work in VSCode from here.
+    public static int multiply (int a, int b){
+        return a*b;
+    }
 }
